@@ -4,7 +4,7 @@ A fun app based on triangles which contains quizzes and which can be used to fin
 
 # Application Link
 
-Live App Link -
+Live App Link - [https://triangles-app.netlify.app/](https://triangles-app.netlify.app/)
 
 # Tech Stack
 
